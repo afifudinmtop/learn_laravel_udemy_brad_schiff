@@ -5,7 +5,7 @@ learn laravel from udemy brad schiff
 init:
 [1] npm install
 [2] composer install
-[3] import database
+[3] import database from 'laravel1.sql'
 [4] set database
 DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
