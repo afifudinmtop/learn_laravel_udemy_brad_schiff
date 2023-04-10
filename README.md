@@ -13,3 +13,5 @@ DB_PORT=3306
 DB_DATABASE=laravel1
 DB_USERNAME=apip
 DB_PASSWORD=anakkeren
+[5]php artisan storage:link
+[6]php artisan serve
